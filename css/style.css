@@ -1,0 +1,60 @@
+#right{
+	padding: 10px;
+}
+#frmRegistration{
+	
+	width: 900px;
+	margin-left: 250px;
+}
+#frmRegistration h1
+{
+	padding-left: 140px;
+	padding-bottom: 15px;
+}
+#frmRegistration form{
+	margin-left: 150px;
+}
+#account{
+	margin-left: 400px;
+}
+
+#none1{
+	padding-top: 15px;
+}
+
+body{
+
+	margin: 0;
+	padding: 0;
+	background: url(bgimage.jpeg);
+	background-size: cover;
+	background-position: center;
+	
+}
+
+h1{
+
+	font-family: serif;
+
+}
+
+.serif{
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+.tableheader {
+	background-color: #95BEE6;
+	color:white;
+	font-weight:bold;
+	}
+.tablerow {
+	background-color: #A7D6F1;
+	color:white;
+	}
+.message {
+	color: #FF0000;
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+	}
